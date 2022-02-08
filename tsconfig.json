@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["dom", "es6"],
+        "strict": true,
+        "module": "es2020",
+        "moduleResolution": "node",
+        "outDir": "./dist/",
+        "noImplicitAny": true,
+        "isolatedModules": true,
+        "skipLibCheck": true,
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true
+    }
+}
